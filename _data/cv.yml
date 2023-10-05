@@ -1,0 +1,78 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Trevine Oorloff
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Ph.D. in Electrical and Computer Engineering
+      institution: University of Maryland - College Park, Maryland, USA
+      year: Fall 2019 - Present
+      description:
+        - "GPA: 3.91/4.0"
+    - title: B.Sc. in Electrical and Electronic Engineering (First Class Honors)
+      institution: University of Peradeniya, Sri Lanka
+      year: 2014 - 2017
+      description:
+        - "GPA: 3.9/4.0"
+        - Ranked 3rd in the Department of Electrical and Electronic Engineering
+
+    - title: Advanced Diploma in Management Accounting
+      institution: Chartered Institute of Management Accountants (CIMA), UK
+      year: 2012 - 2015
+      description:
+        - CIMA Exams Qualified
+- title: Working Experience
+  type: time_table
+  contents:
+    - title: Research Scientist Intern (Vision/Audio)
+      institution: Reality Defender Inc., New York, USA
+      year: May 2023 - Present
+      description:
+        - Working on a research project on video deep fake detection
+    
+    - title: Applications Engineer 
+      institution: Synopsys Inc., Sri Lanka
+      year: Nov. 2017 - Jul. 2019
+      description:
+        - Functioned as the <b>Technical Lead</b> of the ZeBu Product Validation team
+        - Gained experience in validating and emulation based debugging using EDA tools such as ZeBu, VCS, Verdi, DC, SpyGlass, zFmCheck, and PTPX
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2023
+      items: 
+        - Best Paper Award at the CVEU workshop at ICCV'23 for the paper, "Expressive Talking Head Video Encoding in StyleGAN2 Latent-Space"
+    - year: 2019
+      items: 
+        - Two Above and Beyond Awards at Synopsys Inc., Sri Lanka for the contributions in validation of ZeBu Power Estimation and ZeBu Front-End projects
+    - year: 2017
+      items:
+        - Best Paper Award at the International Conference of Advances in ICT for Emerging Regions (ICTer'17), for the paper, "Hyperspectral Imaging Based Land Cover Mapping Using Data Obtained by the Hyperion Sensor"
+    - year: 2018
+        - Nominee for the Eng. E.W. Karunarathne Award, which is awarded for the Best Undergraduate Project in Electrical Engineering (Nation-wide)
+    - year: 2017
+        - Nominee for the Eng. E.W. Karunarathne Award, which is awarded for the Best Undergraduate Project in Electrical Engineering (Nation-wide)
+    - year: 2013
+        - High Distinction Award at the Sri Lankan Mathematical Olympiad 2013, organized by the Sri Lanka Olympiad Mathematics Foundation
+    - year: 2011
+        - Bronze Medalist at the Sri Lankan Physics Olympiad Competition - 2011, organized by the Institute of Physics, Sri Lanka
+    - year: 2010 
+        - Best Student Award at Trinity College, Kandy awarded for the best academic performance
+    - year: 2007 
+        - Best Student Award at Trinity College, Kandy awarded for the best academic performance
+
+- title: Teaching Experience
+  type: list
+  contents:
+    - "ENEE 222: Elements of Discrete Signal Analysis" (Fall 2019,Spring 2020)
+    - "ENEE 633: Advanced Topics in Information Processing; Statistical Pattern Recognition" (Fall 2023)
+
+- title: Services
+  type: list
+  contents:
+    - <b>Reviewer</b> at the IEEE Conference on Information and Automation for Sustainability 2021 (IEEE ICIAfS 2021)
+    - <b>External Examiner</b> for final-year undergraduate  project evaluations of the Sri Lanka Technological Campus (SLTC), Sri Lanka (2021,2022) 
