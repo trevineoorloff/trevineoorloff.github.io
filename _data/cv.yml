@@ -3,6 +3,8 @@
   contents:
     - name: Full Name
       value: Trevine Oorloff
+    - name: Contact
+      value: trevine<at>umd.edu
 
 - title: Education
   type: time_table
@@ -53,16 +55,22 @@
       items:
         - Best Paper Award at the International Conference of Advances in ICT for Emerging Regions (ICTer'17), for the paper, "Hyperspectral Imaging Based Land Cover Mapping Using Data Obtained by the Hyperion Sensor"
     - year: 2018
+      items:
         - Nominee for the Eng. E.W. Karunarathne Award, which is awarded for the Best Undergraduate Project in Electrical Engineering (Nation-wide)
     - year: 2017
+      items:
         - Nominee for the Eng. E.W. Karunarathne Award, which is awarded for the Best Undergraduate Project in Electrical Engineering (Nation-wide)
     - year: 2013
+      items:
         - High Distinction Award at the Sri Lankan Mathematical Olympiad 2013, organized by the Sri Lanka Olympiad Mathematics Foundation
     - year: 2011
+      items:
         - Bronze Medalist at the Sri Lankan Physics Olympiad Competition - 2011, organized by the Institute of Physics, Sri Lanka
     - year: 2010 
+      items:
         - Best Student Award at Trinity College, Kandy awarded for the best academic performance
     - year: 2007 
+      items:
         - Best Student Award at Trinity College, Kandy awarded for the best academic performance
 
 - title: Teaching Experience
