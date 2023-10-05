@@ -400,17 +400,17 @@ medium_zoom:
 # Get external JSON data
 # -----------------------------------------------------------------------------
 
-# jekyll_get_json:
-#   - data: resume
-#     json: assets/json/resume.json # it can also be an url
-# jsonresume:
-#   - basics
-#   - education
-#   - publications
-#   - work
-#   - volunteer
-#   - awards
-#   - skills
-#   - languages
-#   - interests
-#   - references
+jekyll_get_json:
+  - data: resume
+    json: assets/json/resume.json # it can also be an url
+jsonresume:
+  - basics
+  - education
+  - publications
+  - work
+  - awards
+  - volunteer
+  # - skills
+  # - languages
+  # - interests
+  # - references
