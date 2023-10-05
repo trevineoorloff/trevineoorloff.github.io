@@ -4,7 +4,7 @@
     - name: Full Name
       value: Trevine Shane Jude Oorloff
     - name: Contact
-      value: trevine<at>umd.edu
+      value: "trevine <at> umd.edu"
 
 - title: Education
   type: time_table
