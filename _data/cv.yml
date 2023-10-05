@@ -11,19 +11,21 @@
   contents:
     - title: Ph.D. in Electrical and Computer Engineering
       institution: University of Maryland - College Park, Maryland, USA
-      year: Fall 2019 - Present
+      startDate: Fall 2019
       description:
         - "GPA: 3.91/4.0"
     - title: B.Sc. in Electrical and Electronic Engineering (First Class Honors)
       institution: University of Peradeniya, Sri Lanka
-      year: 2014 - 2017
+      startDate: 2014 
+      endDate: 2017
       description:
         - "GPA: 3.9/4.0"
         - Ranked 3rd in the Department of Electrical and Electronic Engineering
 
     - title: Advanced Diploma in Management Accounting
       institution: Chartered Institute of Management Accountants (CIMA), UK
-      year: 2012 - 2015
+      startDate: 2012
+      endDate: 2015
       description:
         - CIMA Exams Qualified
 - title: Working Experience
