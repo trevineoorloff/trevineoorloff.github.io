@@ -33,13 +33,14 @@
   contents:
     - title: Research Scientist Intern (Vision/Audio)
       institution: Reality Defender Inc., New York, USA
-      year: May 2023 - Present
+      startDate: May 2023 
       description:
         - Working on a research project on video deep fake detection
     
     - title: Applications Engineer 
       institution: Synopsys Inc., Sri Lanka
-      year: Nov. 2017 - Jul. 2019
+      startDate: Nov. 2017
+      endDate: Jul. 2019
       description:
         - Functioned as the <b>Technical Lead</b> of the ZeBu Product Validation team
         - Gained experience in validating and emulation based debugging using EDA tools such as ZeBu, VCS, Verdi, DC, SpyGlass, zFmCheck, and PTPX
