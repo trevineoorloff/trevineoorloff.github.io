@@ -28,14 +28,19 @@
       year: 2012 - 2015
       description:
         - CIMA Exams Qualified
+        
 - title: Working Experience
   type: time_table
   contents:
+    - title: Computer Vision Research Intern
+        institution: Apple, Seattle, WA, USA
+        year: Feb 2024 - Present
+      
     - title: Research Scientist Intern (Vision/Audio)
       institution: Reality Defender Inc., New York, USA
-      year: May 2023 - Present
+      year: May 2023 - Aug 2023
       description:
-        - Working on a research project on video deep fake detection
+        - Proposed an efficient audio-visual representation learning framework, yielding state-of-the-art performance on video deepfake detection (<b>Patent Pending</b>).
     
     - title: Applications Engineer 
       institution: Synopsys Inc., Sri Lanka
@@ -84,5 +89,5 @@
 - title: Services
   type: list
   contents:
-    - <b>Reviewer</b> at the IEEE Conference on Information and Automation for Sustainability 2021 (IEEE ICIAfS 2021)
+    - <b>Reviewer</b> at ECCV 2024, CVPR 2024, and ICIAfS 2021
     - <b>External Examiner</b> for final-year undergraduate  project evaluations of the Sri Lanka Technological Campus (SLTC), Sri Lanka (2021, 2022) 
